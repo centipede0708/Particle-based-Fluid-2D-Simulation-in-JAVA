@@ -12,9 +12,6 @@ View Here ↓
 
 👉 [Watch the full video on YouTube](https://youtu.be/pIF3BHLQHTM)
 
-
-[![Watch Here](https://img.youtube.com/vi/XZOQCBv2Nu0/0.jpg)](https://www.youtube.com/watch?v=XZOQCBv2Nu0)
-
 ### System Requirements
 - Processor: Intel Core i5 (any generation)
 - RAM: 4GB or more
