@@ -6,6 +6,12 @@ This project is a pure Java-based physics simulation that models fluid and rigid
 - Basic fluid-like motion for soft body interactions
 
 View Here ↓
+## 🎥 2D Particle Simulator Showcase (Java Swing + AWT)
+
+[![Watch the video](https://img.youtube.com/vi/pIF3BHLQHTM/0.jpg)](https://youtu.be/pIF3BHLQHTM)
+
+👉 [Watch the full video on YouTube](https://youtu.be/pIF3BHLQHTM)
+
 
 [![Watch Here](https://img.youtube.com/vi/XZOQCBv2Nu0/0.jpg)](https://www.youtube.com/watch?v=XZOQCBv2Nu0)
 
